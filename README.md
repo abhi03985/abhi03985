@@ -147,11 +147,40 @@ Created a comprehensive Excel-based analytics suite for Vrinda Store's 2022 perf
 
 ---
 
-## 📊 Performance Metrics
+## 🏅 Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi03985&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi03985&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/Projects_Deployed-4-2ea44f?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Records_Analyzed-291K+-blue?style=flat-square&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dashboard_Pages_Built-13-9c27b0?style=flat-square&logo=powerbi&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Queries_Written-60+-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX_Formulas-38-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Certifications-3-ffd700?style=flat-square&logo=award&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/E_Commerce_Domain-Expert-ff6b6b?style=flat-square&logo=shopping-cart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stakeholder_Presentations-8+-success?style=flat-square&logo=presentation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Years_Experience-1-informational?style=flat-square&logo=calendar&logoColor=white"/>
+</p>
+
+---
+
+## 💻 Tools & Technologies Mastered
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-⭐⭐⭐⭐⭐-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-⭐⭐⭐⭐☆-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-⭐⭐⭐⭐⭐-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-⭐⭐⭐☆☆-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-⭐⭐⭐☆☆-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-⭐⭐⭐⭐☆-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
 ---
