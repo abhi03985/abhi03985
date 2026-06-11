@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Verma</h1>
 <h3 align="center">Data Analyst | Power BI · SQL · Excel | B.Com Finance | Noida, India</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Fresher_Data_Analyst-Available-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open_to_Internships-Yes-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Based_in-Noida,_India-red?style=for-the-badge"/>
 </p>
 
 <p align="center">
