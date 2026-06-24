@@ -210,15 +210,6 @@ Created a comprehensive Excel-based analytics suite for Vrinda Store's 2022 perf
 
 ---
 
-## 💼 What I'm Looking For
-
-✅ **Fresher Data Analyst Roles** — Looking to leverage my project experience and finance background in a professional setting
-
-✅ **Paid Internships** — Open to 3-6 month internships to accelerate growth and contribute to real-world projects
-
-✅ **Freelance Projects** — Available for dashboard development, data cleaning, and analytics consulting
-
-✅ **Collaborative Learning** — Interested in mentorship and working with experienced data professionals
 
 ---
 
